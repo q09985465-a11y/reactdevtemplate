@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "betatestdev",
+	"name": "vite-react-template",
 	"main": "worker/index.js",
 	"compatibility_date": "2026-07-02",
 	"assets": {
