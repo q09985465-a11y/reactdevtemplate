@@ -1,7 +1,7 @@
 import { hashPassword } from "../src/auth/password.js";
 
 const password = "Admin123";
-//prueba
+//prueb
 const hash = await hashPassword(password);
 
 console.log("");
